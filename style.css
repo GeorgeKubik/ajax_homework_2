@@ -1,0 +1,14 @@
+.div__block {
+	width: 168px;
+	margin-top: 10px;
+	min-height: 20px;
+	color: red;
+	border: 1px solid black
+}
+
+.text-error {
+	margin-top: 30px;
+	width: 168px;
+	min-height: 20px;
+	color: red;
+}
